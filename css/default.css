@@ -203,7 +203,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url(../images/main_banner.jpg) no-repeat center;
+    background: url(../images/computer_banner.jpg) no-repeat center;
     height: 100vh;
     color: #fff;
     
