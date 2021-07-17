@@ -455,7 +455,7 @@ section .title::after {
 /* Projects section styling */
 
 .projects .title::after {
-    content: "What i have done";
+    content: "what i have done";
 }
 
 .projects .carousel .card {
